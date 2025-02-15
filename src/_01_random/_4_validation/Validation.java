@@ -21,5 +21,23 @@ public class Validation {
 		// 2. Repeat all the code above 10 times
 		
 		// 3. Find someone to test out your program. They will like it :)
+
+		switch (randomNumber) {
+			case 0:
+				System.out.println("You look great today!");
+				break;
+			case 1:
+				System.out.println("Nice shirt!");
+				break;
+			case 2:
+				System.out.println("You're the best!");
+				break;
+			case 3:
+				System.out.println("You are very kind!");
+				break;
+			case 4:
+				System.out.println("You are very smart!");
+				break;
+		}
 	}
 }

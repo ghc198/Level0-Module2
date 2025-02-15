@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Magic8Ball",
+            "request": "launch",
+            "mainClass": "_01_random._5_magic_8_ball.Magic8Ball",
+            "projectName": "Level0-Module2_26c0ea07"
+        },
+        {
+            "type": "java",
             "name": "AnimalFarm",
             "request": "launch",
             "mainClass": "_02_methods._1_animal_farm.AnimalFarm"
